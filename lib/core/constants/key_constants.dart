@@ -1,0 +1,4 @@
+enum GroupValue {
+  read,
+  unread,
+}

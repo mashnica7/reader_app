@@ -1,0 +1,1 @@
+const minPageHeight = 750;

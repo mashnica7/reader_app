@@ -1,0 +1,14 @@
+{
+    "numFound": 1,
+    "docs": [
+      {
+        "key": "key1",
+        "title": "Title 1",
+        "cover_i": 1,
+        "author_name": ["Author Name 1", "Author Name 2"],
+        "first_sentence": ["First Sentence 1", "Second Sentace"],
+        "publish_year": ["2001", "2002"],
+        "publisher": ["Publisher 1", "Publisher2"]
+      }
+    ]
+  }
